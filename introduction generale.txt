@@ -1,0 +1,15 @@
+Introduction générale du mémoire: Développement d'une application de gestion de scolarité pour l'Institut INSFP de Oued Aissi à Tizi Ouzou.
+
+La gestion efficace de la scolarité est un élément essentiel dans le bon fonctionnement des établissements d'enseignement. Cependant, de nombreux instituts et écoles rencontrent des difficultés liées à la gestion manuelle des processus administratifs, tels que la gestion des étudiants, des cours, des emplois du temps et des résultats. Ces tâches peuvent être fastidieuses, sujettes aux erreurs et consommatrices de temps pour les acteurs impliqués.
+
+Dans ce contexte, le présent mémoire se concentre sur le développement d'une application de gestion de scolarité spécifiquement conçue pour l'Institut INSFP de Oued Aissi à Tizi Ouzou. L'objectif principal de cette application est de simplifier et d'automatiser les processus administratifs liés à la gestion de la scolarité, afin d'améliorer l'efficacité et la précision des opérations.
+
+La première partie de ce mémoire mettra en évidence les problèmes rencontrés par l'Institut INSFP de Oued Aissi dans la gestion manuelle de la scolarité. Ces problèmes peuvent inclure des retards dans la publication des résultats, des erreurs de saisie des données, des difficultés de communication entre les différents acteurs (étudiants, enseignants, administrateurs), et une charge administrative élevée pour l'équipe pédagogique.
+
+Ensuite, nous présenterons l'objectif de ce mémoire, qui est de développer une application de gestion de scolarité adaptée aux besoins spécifiques de l'Institut INSFP de Oued Aissi. Nous discuterons des avantages potentiels d'une telle application, tels que l'automatisation des tâches répétitives, l'amélioration de la communication et de la collaboration entre les différents acteurs, la réduction des erreurs de saisie et l'accès facilité aux informations scolaires.
+
+La troisième partie de ce mémoire abordera la méthodologie utilisée pour le développement de l'application. Nous décrirons les étapes de conception, de développement et de test de l'application, ainsi que les outils et les technologies utilisés. Nous expliquerons également la méthodologie d'évaluation utilisée pour mesurer l'efficacité et la convivialité de l'application auprès des utilisateurs de l'Institut INSFP de Oued Aissi.
+
+Enfin, nous présenterons brièvement le plan du mémoire, qui comprendra les différentes sections détaillant les aspects clés du développement de l'application, les résultats de l'évaluation et les perspectives futures.
+
+En conclusion, ce mémoire vise à développer une application de gestion de scolarité pour l'Institut INSFP de Oued Aissi à Tizi Ouzou, afin d'améliorer l'efficacité et la précision des processus administratifs. En automatisant les tâches et en facilitant la communication entre les différents acteurs, cette application offrira une solution moderne pour une gestion optimisée de la scolarité.
